@@ -1,0 +1,11 @@
+Weather,Temperature,CarAvailability,RentalPrice,RentCar
+Sunny,Hot,Available,Expensive,No
+Sunny,Warm,Available,Cheap,Yes
+Rainy,Cold,NotAvailable,Expensive,No
+Cloudy,Mild,Available,Moderate,Yes
+Sunny,Hot,NotAvailable,Expensive,No
+Rainy,Cool,Available,Moderate,No
+Cloudy,Warm,Available,Cheap,Yes
+Sunny,Warm,Available,Cheap,Yes
+Rainy,Cold,NotAvailable,Moderate,No
+Cloudy,Mild,NotAvailable,Expensive,No
